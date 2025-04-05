@@ -26,6 +26,9 @@ bld/
 bin/
 obj/
 
+.idea/
+.vscode/
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
