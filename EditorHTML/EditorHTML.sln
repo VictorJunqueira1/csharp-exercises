@@ -1,0 +1,15 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorHTML", "EditorHTML\EditorHTML.csproj", "{C012C06D-0E76-4ECD-B26F-62963F18EB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C012C06D-0E76-4ECD-B26F-62963F18EB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C012C06D-0E76-4ECD-B26F-62963F18EB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C012C06D-0E76-4ECD-B26F-62963F18EB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C012C06D-0E76-4ECD-B26F-62963F18EB24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
